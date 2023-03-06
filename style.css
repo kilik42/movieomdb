@@ -9,7 +9,7 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(#1c1917 0% #ffb92a 50%);
+    background: linear-gradient(#1c1917 50% #ffb92a 50%);
 }
 
 .container {
@@ -50,4 +50,12 @@ body {
 
 .search-container input:focus{
     border-color: #fff;
+}
+
+.search-container button{
+    background-color: #ffb92a;
+    border: none;
+    color: #1e293b;
+    padding: 0.7em;
+    cursor: pointer;
 }

@@ -47,3 +47,7 @@ body {
     padding: 0.7em;
     
 }
+
+.search-container input: focus{
+    border-color: #fff;
+}

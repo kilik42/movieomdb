@@ -48,6 +48,6 @@ body {
     
 }
 
-.search-container input: focus{
+.search-container input:focus{
     border-color: #fff;
 }

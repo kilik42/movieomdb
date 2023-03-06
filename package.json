@@ -1,0 +1,25 @@
+{
+  "name": "javascriptapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilik42/movieomdb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kilik42/movieomdb/issues"
+  },
+  "homepage": "https://github.com/kilik42/movieomdb#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
